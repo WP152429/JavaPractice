@@ -26,7 +26,7 @@ public class PrimitiveDataType {
 		double height = 161.8;
 		float weight = 44.3f;
 		char bloodType = 'A';
-		
+		   
 		System.out.println("<<아이유 프로필>>");
 		System.out.println("이름 : "+name);
 		System.out.println("성별 : "+(isMale? "남자":"여자"));
