@@ -45,6 +45,7 @@ public class Loop {
 				break;
 			case 9:
 				System.out.println("이제 공부하세요!");
+				scanner.close();
 				break;
 			default:
 				System.out.println("없는 메뉴입니다!!");
