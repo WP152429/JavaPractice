@@ -41,6 +41,7 @@ public class Question {
 			print[i].append(question[i]).append(answer[i]).append("입니다.");
 			System.out.println(print[i]);
 		}
+		sc.close();
 
 	}
 
